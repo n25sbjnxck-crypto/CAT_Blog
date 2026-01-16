@@ -1,0 +1,8 @@
+# CAT_Blog_2026
+
+**1.** **Interrail after years of flying. Location: Helsinki**
+⠀**CAT_Blog 11th January 2026**
+The travel proper has not begun yet, though many hours have been spent planning it. On January 15th, Tuija (more on her later) and I take a ferry to Stockholm, followed by a train to Berlin, then on to Paris, then to London by Eurostar, and a final train to Cambridge. Then back again on January 25th. Those return trips have yet to be booked.
+This is both more expensive and much more time consuming in terms of planning than booking a flight to London. Maybe over time we will learn which are the best routes, best prices, best rail company websites, best timetables. For now, it is confusing and enervating. There is the app, of course, through which you can buy your Interrail pass and book various things. We already worked out that the app often charges at the higher end of the price scale, they charge a booking fee and not all options are available. So it is DIY Interrail planning for now, which often requires at least a rudimentary grasp of various European languages. Between us, we can manage most of these.
+The trains are an experiment, to see what the avoidance of flying means. It also brings to life the size and diversity of the European region. It is impossible to think of this place as any kind of single thing when working out trans-European train timetables. Nothing is the same.
+And actually, I am really grateful for that: how terrible it would be to discover that since the last time I took a very long train trip (about 35 years ago), the world had globalized so much that everything is now the same. *Vive la Différence*.
