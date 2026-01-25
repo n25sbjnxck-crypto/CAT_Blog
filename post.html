@@ -15,7 +15,7 @@
                 </div>
                 <nav>
                     <ul>
-                        <li><a href="index.html" class="active">Home</a></li>
+                        <li><a href="index.html">Home</a></li>
                         <li><a href="about.html">About</a></li>
                         <li><a href="contact.html">Contact</a></li>
                     </ul>
@@ -26,15 +26,18 @@
 
     <main>
         <div class="container">
-            <section class="hero">
-                <h1>Interesting CAT Morsels</h1>
-                <p class="subtitle">Notes from the field</p>
-            </section>
-
-            <section class="blog-posts">
-                <!-- Posts loaded dynamically from markdown files -->
-                <p class="loading-message">Loading posts...</p>
-            </section>
+            <article class="post-full">
+                <div class="post-meta">
+                    <time datetime="">Loading...</time>
+                </div>
+                <h1>Loading...</h1>
+                <div class="post-content">
+                    <p>Loading post...</p>
+                </div>
+                <div class="post-navigation">
+                    <a href="index.html" class="back-link">← Back to all posts</a>
+                </div>
+            </article>
         </div>
     </main>
 
@@ -43,6 +46,7 @@
             <p>&copy; CAT Project 2026. All rights reserved.</p>
         </div>
     </footer>
+
     <script src="blog.js"></script>
 </body>
 </html>

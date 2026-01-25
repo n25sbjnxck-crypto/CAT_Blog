@@ -227,6 +227,109 @@ main {
     margin-top: 0;
 }
 
+/* Full Post Page */
+.post-full {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.post-full h1 {
+    font-size: 2.5rem;
+    margin-bottom: var(--spacing-sm);
+}
+
+.post-full .post-meta {
+    margin-bottom: var(--spacing-md);
+}
+
+.post-content {
+    font-size: 1.1rem;
+    line-height: 1.8;
+}
+
+.post-content h2 {
+    margin-top: var(--spacing-lg);
+    margin-bottom: var(--spacing-sm);
+}
+
+.post-content h3 {
+    margin-top: var(--spacing-md);
+    margin-bottom: var(--spacing-sm);
+}
+
+.post-content p {
+    margin-bottom: var(--spacing-md);
+}
+
+.post-content blockquote {
+    border-left: 4px solid var(--accent-color);
+    padding-left: var(--spacing-md);
+    margin: var(--spacing-md) 0;
+    font-style: italic;
+    color: var(--secondary-color);
+}
+
+.post-content pre {
+    background-color: var(--light-gray);
+    padding: var(--spacing-md);
+    border-radius: 4px;
+    overflow-x: auto;
+    margin: var(--spacing-md) 0;
+}
+
+.post-content code {
+    font-family: 'Monaco', 'Consolas', monospace;
+    font-size: 0.9em;
+    background-color: var(--light-gray);
+    padding: 0.2em 0.4em;
+    border-radius: 3px;
+}
+
+.post-content pre code {
+    background: none;
+    padding: 0;
+}
+
+.post-content ul,
+.post-content ol {
+    margin: var(--spacing-md) 0;
+    padding-left: var(--spacing-lg);
+}
+
+.post-content li {
+    margin-bottom: var(--spacing-xs);
+}
+
+.post-content img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 4px;
+    margin: var(--spacing-md) 0;
+}
+
+.post-content hr {
+    border: none;
+    border-top: 1px solid var(--border-color);
+    margin: var(--spacing-lg) 0;
+}
+
+.post-navigation {
+    margin-top: var(--spacing-xl);
+    padding-top: var(--spacing-lg);
+    border-top: 1px solid var(--border-color);
+}
+
+.back-link {
+    font-family: 'Helvetica Neue', 'Arial', sans-serif;
+    font-weight: 600;
+}
+
+.loading-message {
+    text-align: center;
+    color: var(--secondary-color);
+    font-style: italic;
+}
+
 /* Contact Form */
 .contact-intro {
     margin-bottom: var(--spacing-lg);
