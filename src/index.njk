@@ -9,6 +9,19 @@ title: CAT Research Blog
 
 <section class="blog-posts">
     {% for post in collections.posts %}
+        {% if post.data.pinned %}
+    <article class="post-card pinned">
+        <div class="post-meta">
+            <time datetime="{{ post.date | dateISO }}">{{ post.date | dateFormat }}</time>
+        </div>
+        <h2>{{ post.data.title }}</h2>
+        <p>{{ post.data.excerpt }}</p>
+        <a href="{{ post.url }}" class="read-more">Read more &rarr;</a>
+    </article>
+        {% endif %}
+    {% endfor %}
+    {% for post in collections.posts | reverse %}
+        {% if not post.data.pinned %}
     <article class="post-card">
         <div class="post-meta">
             <time datetime="{{ post.date | dateISO }}">{{ post.date | dateFormat }}</time>
@@ -17,5 +30,6 @@ title: CAT Research Blog
         <p>{{ post.data.excerpt }}</p>
         <a href="{{ post.url }}" class="read-more">Read more &rarr;</a>
     </article>
+        {% endif %}
     {% endfor %}
 </section>
