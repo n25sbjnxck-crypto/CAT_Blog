@@ -16,7 +16,7 @@ We walked to the **Gärdet metro station** in Stockholm through slush and snow. 
 
 The metro station included an exhibition of insect art by **Carl Axel Pehrson**, which made a haunting, and beautiful, impression there in the underground. Most of the pieces emulated those displays of insects in old style natural history museums: the animals were pinned to a piece of cardboard in some kind of specific order, classified and catalogued. Linneaus would be proud.
 
-![Insects Display](/images/4_CATQ1_Gärdet_insects_260116.jpg)
+![Insects Display](/images/4_CATQ1_Gardet_insects_260116.jpg)
 **Stockholm Central railway station** is very grand, and had some remaining signs of the Christmas season still visible. The pigeons pottered around, as they do in all train stations around Europe I suppose; there were a few pet dogs, mostly looking bored. 
 ![Pigeon_Stockholm](/images/7_Stockholm_Station_Pigeon_260116.jpg)
 The station has an ornate drinking fountain created in 1927 by Ansgar Almquist, featuring a red limestone globe, and surrounded fish, frogs and lion mascaron. There was no water anymore. Instead, there were potted plants, presumably in the basin where the water used to pour. Combined with the ornate iron railings nearby that feature exotic looking people, it created a distinctly colonial feeling somehow. 
