@@ -19,9 +19,9 @@ The metro station included an exhibition of insect art by **Carl Axel Pehrson**,
 ![Insects Display](/images/4_CATQ1_Gardet_insects_260116.jpg)
 **Stockholm Central railway station** is very grand, and had some remaining signs of the Christmas season still visible. The pigeons pottered around, as they do in all train stations around Europe I suppose; there were a few pet dogs, mostly looking bored. 
 ![Pigeon_Stockholm](/images/7_Stockholm_Station_Pigeon_260116.jpg)
-The station has an ornate drinking fountain created in 1927 by Ansgar Almquist, featuring a red limestone globe, and surrounded fish, frogs and lion mascaron. There was no water anymore. Instead, there were potted plants, presumably in the basin where the water used to pour. Combined with the ornate iron railings nearby that feature exotic looking people, it created a distinctly colonial feeling somehow. 
+The station has an ornate drinking fountain created in 1927 by Ansgar Almquist, featuring a red limestone globe, and is surrounded by fish, frogs and lion mascaron. There was no water anymore. Instead, there were potted plants, presumably in the basin where the water used to pour. Combined with the ornate iron railings nearby that feature exotic looking people, it created a distinctly colonial feeling somehow. 
 ![Globe Drinking Fountain](/images/5a_Globe_Fountain_Stockholm_St_260116.jpg)
-
+![Iron railings Stockholm Central Station](/images/6_Stockholm_Station_Ironwork_260116.jpg)
 We went walking in Stockholm for a while, passing a crow investigating the snow around a church, and we passed a statue of a homeless fox huddled under blankets, sitting outside the Swedish Prime Minister's office (“Rag and Bone,” Laura Ford, 2008). A much grittier, or perhaps just more contemporary, commentary than the 1927 globe drinking fountain. It also contrasted with a replica of St George slaying the Dragon built in 1912 to celebrate the Battle of Brunkeburg, which involved a victory of Swedes over Danes in 1471. Animal depictions are changing.
 ![Crow in snow](/images/7a_CATQ1_Crow_Stockholm_260116.jpg)
 ![Homeless Fox](/images/8_CATQ1_Fox_Stockholm_260116.jpg)
