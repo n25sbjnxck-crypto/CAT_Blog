@@ -1,0 +1,21 @@
+---
+layout: base.njk
+title: CAT Research Blog
+---
+<section class="hero">
+    <h1>Interesting CAT Morsels</h1>
+    <p class="subtitle">Notes from the field</p>
+</section>
+
+<section class="blog-posts">
+    {% for post in collections.posts %}
+    <article class="post-card">
+        <div class="post-meta">
+            <time datetime="{{ post.date | dateISO }}">{{ post.date | dateFormat }}</time>
+        </div>
+        <h2>{{ post.data.title }}</h2>
+        <p>{{ post.data.excerpt }}</p>
+        <a href="{{ post.url }}" class="read-more">Read more &rarr;</a>
+    </article>
+    {% endfor %}
+</section>

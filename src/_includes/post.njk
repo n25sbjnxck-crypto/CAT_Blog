@@ -1,0 +1,15 @@
+---
+layout: base.njk
+---
+<article class="post-full">
+    <div class="post-meta">
+        <time datetime="{{ date | dateISO }}">{{ date | dateFormat }}</time>
+    </div>
+    <h1>{{ title }}</h1>
+    <div class="post-content">
+        {{ content | safe }}
+    </div>
+    <div class="post-navigation">
+        <a href="/" class="back-link">&larr; Back to all posts</a>
+    </div>
+</article>

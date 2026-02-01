@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ title | default("CAT Research Blog") }}</title>
+    <link rel="stylesheet" href="/css/styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="header-content">
+                <div class="logo">
+                    <a href="/"><img src="/logo.png" alt="CAT Academy Logo" id="site-logo"></a>
+                </div>
+                <nav>
+                    <ul>
+                        <li><a href="/"{% if page.url == "/" %} class="active"{% endif %}>Home</a></li>
+                        <li><a href="/about/"{% if page.url == "/about/" %} class="active"{% endif %}>About</a></li>
+                        <li><a href="/contact/"{% if page.url == "/contact/" %} class="active"{% endif %}>Contact</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <div class="container">
+            {{ content | safe }}
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; CAT Project 2026. All rights reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>

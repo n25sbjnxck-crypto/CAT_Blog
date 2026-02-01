@@ -1,0 +1,25 @@
+{
+  "name": "cat_blog",
+  "version": "1.0.0",
+  "description": "A clean, academic-styled blog for sharing research updates and findings.",
+  "scripts": {
+    "build": "npx @11ty/eleventy",
+    "serve": "npx @11ty/eleventy --serve",
+    "clean": "rm -rf _site"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n25sbjnxck-crypto/CAT_Blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/n25sbjnxck-crypto/CAT_Blog/issues"
+  },
+  "homepage": "https://github.com/n25sbjnxck-crypto/CAT_Blog#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^3.1.2"
+  }
+}
