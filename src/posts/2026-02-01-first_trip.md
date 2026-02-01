@@ -1,5 +1,5 @@
 ---
-title: "First CAT mapping trip: to Helsinki-Cambridge by ferry and train"
+title: "First CAT mapping trip: Helsinki to Cambridge by ferry and train"
 date: 2026-01-31
 excerpt: "In which a fluffy seal person, seagulls, sniffer dogs, pet dogs, pigeons, crows, insect art, moles, sheep, horses, cows, deer, wolves, ponies, tigers, Barbary lions, Venus with dolphin and Diana with deer, foxes and more pigeons accompany us on the journey"
 ---
