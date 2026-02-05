@@ -8,19 +8,19 @@ The smiling white seal welcomed us onto the ferry heading to Stockholm from Hels
 
 <figure>
   <img src="/images/1_CATQ1_Seal_Person_260115.jpg" alt="Fluffy White Seal Person on Ferry">
-  <figcaption>Fluffy white seal mascot with crew member, Silja Line Ferry, Helsinki, 15 January 2026. Photo: Fran Verdi.</figcaption>
+  <figcaption>Fluffy white seal mascot with crew member, Silja Line Ferry, Helsinki, 15 January 2026. Photo: Sarah Green.</figcaption>
 </figure>
 
 <figure>
   <img src="/images/2_CATQ1_Seal_Toy_260115.jpg" alt="White Seal Swinging">
-  <figcaption>Stuffed seal toy swinging on hoop, Silja Line Ferry, 15 January 2026. Photo: Fran Verdi.</figcaption>
+  <figcaption>Stuffed seal toy swinging on hoop, Silja Line Ferry, 15 January 2026. Photo: Sarah Green.</figcaption>
 </figure>
 
 A single seagull welcomed us to Stockholm the next day as we docked, along with a working dog, sniffing for something suspicious as the passengers walked passed it. Those dogs always seem to be distracted until they find what they're looking for, at which point their laser focus is unmistakable.
 
 <figure>
   <img src="/images/3_CATQ1_Sniffer_Dog_Stockholm_260116.jpg" alt="Sniffer Dog at Work Stockholm">
-  <figcaption>Sniffer dog at work, Stockholm ferry terminal, 16 January 2026. Photo: Fran Verdi.</figcaption>
+  <figcaption>Sniffer dog at work, Stockholm ferry terminal, 16 January 2026. Photo: Sarah Green.</figcaption>
 </figure>
 
 #### **Stockholm insects, lion, fish, fox, crow, dragon**
@@ -31,43 +31,43 @@ The metro station included an exhibition of insect art by **Carl Axel Pehrson**,
 
 <figure>
   <img src="/images/4_CATQ1_Gardet_insects_260116.jpg" alt="Insects Display">
-  <figcaption>Insect art by Carl Axel Pehrson, Gärdet metro station, Stockholm, 16 January 2026. Photo: Fran Verdi.</figcaption>
+  <figcaption>Insect art by Carl Axel Pehrson, Gärdet metro station, Stockholm, 16 January 2026. Photo: Sarah Green.</figcaption>
 </figure>
 
 **Stockholm Central railway station** is very grand, and had some remaining signs of the Christmas season still visible. The pigeons pottered around, as they do in all train stations around Europe I suppose; there were a few pet dogs, mostly looking bored.
 
 <figure>
   <img src="/images/7_Stockholm_Station_Pigeon_260116.jpg" alt="Pigeon_Stockholm">
-  <figcaption>Pigeon at Stockholm Central Station, 16 January 2026. Photo: Fran Verdi.</figcaption>
+  <figcaption>Pigeon at Stockholm Central Station, 16 January 2026. Photo: Sarah Green.</figcaption>
 </figure>
 
 The station has an ornate drinking fountain created in 1927 by Ansgar Almquist, featuring a red limestone globe, and is surrounded by fish, frogs and lion mascaron. There was no water anymore. Instead, there were potted plants, presumably in the basin where the water used to pour. Combined with the ornate iron railings nearby that feature exotic looking people, it created a distinctly colonial feeling somehow.
 
 <figure>
   <img src="/images/5a_Globe_Fountain_Stockholm_St_260116.jpg" alt="Globe Drinking Fountain">
-  <figcaption>Globe drinking fountain by Ansgar Almquist (1927), Stockholm Central Station, 16 January 2026. Photo: Fran Verdi.</figcaption>
+  <figcaption>Globe drinking fountain by Ansgar Almquist (1927), Stockholm Central Station, 16 January 2026. Photo: Sarah Green.</figcaption>
 </figure>
 
 <figure>
   <img src="/images/6_Stockholm_Station_Ironwork_260116.jpg" alt="Iron railings Stockholm Central Station">
-  <figcaption>Ornate iron railings, Stockholm Central Station, 16 January 2026. Photo: Fran Verdi.</figcaption>
+  <figcaption>Ornate iron railings, Stockholm Central Station, 16 January 2026. Photo: Sarah Green.</figcaption>
 </figure>
 
 We went walking in Stockholm for a while, passing a crow investigating the snow around a church, and we passed a statue of a homeless fox huddled under blankets, sitting outside the Swedish Prime Minister's office ("Rag and Bone," Laura Ford, 2008). A much grittier, or perhaps just more contemporary, commentary than the 1927 globe drinking fountain. It also contrasted with a replica of St George slaying the Dragon built in 1912 to celebrate the Battle of Brunkeburg, which involved a victory of Swedes over Danes in 1471. Animal depictions are changing.
 
 <figure>
   <img src="/images/7a_CATQ1_Crow_Stockholm_260116.jpg" alt="Crow in snow">
-  <figcaption>Crow investigating snow near a church, Stockholm, 16 January 2026. Photo: Fran Verdi.</figcaption>
+  <figcaption>Crow investigating snow near a church, Stockholm, 16 January 2026. Photo: Sarah Green.</figcaption>
 </figure>
 
 <figure>
   <img src="/images/8_CATQ1_Fox_Stockholm_260116.jpg" alt="Homeless Fox">
-  <figcaption>"Rag and Bone" by Laura Ford (2008), homeless fox sculpture outside the Swedish Prime Minister's office, Stockholm, 16 January 2026. Photo: Fran Verdi.</figcaption>
+  <figcaption>"Rag and Bone" by Laura Ford (2008), homeless fox sculpture outside the Swedish Prime Minister's office, Stockholm, 16 January 2026. Photo: Sarah Green.</figcaption>
 </figure>
 
 <figure>
   <img src="/images/9_Stockholm_Dragon_Slayer_260116.jpg" alt="St George Dragon">
-  <figcaption>Replica of St George slaying the Dragon (1912), Stockholm, 16 January 2026. Photo: Fran Verdi.</figcaption>
+  <figcaption>Replica of St George slaying the Dragon (1912), Stockholm, 16 January 2026. Photo: Sarah Green.</figcaption>
 </figure>
 
 After lunch, we went back to the station to catch a train headed for Berlin. We made use of the public toilets, which contained a video of a fish tank in it near the basins: fish swimming around in a tank. But it was a video, not a real tank. That reminded me of how digitised the world is these days. We bought a salad from a shop in the station to eat on the train, but we could only order our own mix of greens from a computer screen, not from a person. The person who took our payment apologised.
@@ -79,14 +79,14 @@ The temperatures were turning colder as we made **our way to Berlin**. Many fiel
 
 <figure>
   <img src="/images/10_CATQ1_Berlin_Station_Crow_260117.jpg" alt="Berlin Crow">
-  <figcaption>Hooded crow at Berlin train station, 17 January 2026. Photo: Fran Verdi.</figcaption>
+  <figcaption>Hooded crow at Berlin train station, 17 January 2026. Photo: Sarah Green.</figcaption>
 </figure>
 
 We arrived in Berlin, and we were greeted by a **hooded crow**. Berlin also has **seagulls** - odd, since the city is landlocked. It turns out the gulls have been arriving in European cities since the 1970s, both because coastal habitats have been reduced, and because cities make nice places for seagulls. They like the flat nesting spots on top of buildings and the easily available food all year round. Tuija suggested seagull habitats might be now somewhere near McDonalds.
 
 <figure>
   <img src="/images/11_CATQ1_Seagulls_Berlin_260117.jpg" alt="Berlin Seagulls">
-  <figcaption>Seagulls in Berlin, 17 January 2026. Photo: Fran Verdi.</figcaption>
+  <figcaption>Seagulls in Berlin, 17 January 2026. Photo: Sarah Green.</figcaption>
 </figure>
 
 #### **Paris, lions, tigers, parakeets, dogs, ponies, more lions, ostriches, deer, dolphin**
@@ -94,34 +94,34 @@ From Berlin, we **went on to Paris**, where we stayed the night. We had breakfas
 
 <figure>
   <img src="/images/12_CATQ1_Cat_CafeRostand_Paris_260118.jpg" alt="Paris Cafe Cat">
-  <figcaption>Resident cat at Cafe Rostand, Paris, 18 January 2026. Photo: Fran Verdi.</figcaption>
+  <figcaption>Resident cat at Cafe Rostand, Paris, 18 January 2026. Photo: Sarah Green.</figcaption>
 </figure>
 
 <figure>
   <img src="/images/13_CATQ1_Rostand_Stucco_Paris_260118.jpg" alt="Rostand Oriental Wall">
-  <figcaption>Art Deco stucco palm trees, Cafe Rostand, Paris, 18 January 2026. Photo: Fran Verdi.</figcaption>
+  <figcaption>Art Deco stucco palm trees, Cafe Rostand, Paris, 18 January 2026. Photo: Sarah Green.</figcaption>
 </figure>
 
 <figure>
   <img src="/images/14_CATQ1_Rostand_Paris_Tiger_Battle_260118.jpg" alt="Rostand Tiger Battle">
-  <figcaption>Sketch of tiger hunt, Cafe Rostand, Paris, 18 January 2026. Photo: Fran Verdi.</figcaption>
+  <figcaption>Sketch of tiger hunt, Cafe Rostand, Paris, 18 January 2026. Photo: Sarah Green.</figcaption>
 </figure>
 
 <figure>
   <img src="/images/15_CATQ1_Rostand_Paris_Lions_Battle_260118.jpg" alt="Rostand Lion Battle">
-  <figcaption>Sketch of lion hunt, Cafe Rostand, Paris, 18 January 2026. Photo: Fran Verdi.</figcaption>
+  <figcaption>Sketch of lion hunt, Cafe Rostand, Paris, 18 January 2026. Photo: Sarah Green.</figcaption>
 </figure>
 
 **Luxembourg Gardens** has a large population of **parakeets** in the huge plain trees around the **Michaelangelo fountain** and monument. They fly fast, swooping, stopping, screeching, swooping again, then sitting in the branches, interspersed with the odd pigeon. They seem to hang out just there in those huge trees right near the French Senate, and nowhere else.
 
 <figure>
   <img src="/images/16_CATQ1_Parakeet_Paris_Luxembourg_260118.jpg" alt="Parakeet in tree">
-  <figcaption>Parakeet in the trees, Luxembourg Gardens, Paris, 18 January 2026. Photo: Fran Verdi.</figcaption>
+  <figcaption>Parakeet in the trees, Luxembourg Gardens, Paris, 18 January 2026. Photo: Sarah Green.</figcaption>
 </figure>
 
 <figure>
   <img src="/images/21_CATQ1_Parakeet2_Paris_Luxembourg_260118.jpg" alt="Parakeet2 in tree">
-  <figcaption>Parakeet in the trees, Luxembourg Gardens, Paris, 18 January 2026. Photo: Fran Verdi.</figcaption>
+  <figcaption>Parakeet in the trees, Luxembourg Gardens, Paris, 18 January 2026. Photo: Sarah Green.</figcaption>
 </figure>
 
 Being Sunday, the gardens were full of runners, people practicing Tai Chi, and kids on ponies. And dogs of course - a lot of very small ones, as I've learned to expect in Paris.
@@ -130,26 +130,26 @@ The gardens are also full of statues featuring animals - particularly lions; the
 
 <figure>
   <img src="/images/18_CATQ1_Lion_Ostrich_Paris_Luxembourg_260118.jpg" alt="Lion with ostrich prey">
-  <figcaption>"Le Lion de Nubie et sa Proie" by Auguste Cain (1870), Luxembourg Gardens, Paris, 18 January 2026. Photo: Fran Verdi.</figcaption>
+  <figcaption>"Le Lion de Nubie et sa Proie" by Auguste Cain (1870), Luxembourg Gardens, Paris, 18 January 2026. Photo: Sarah Green.</figcaption>
 </figure>
 
 Behind the lion, there is a statue of **a group of deer**, "La Harde de Cerfs Écoutant le Rapproche" (Herd of Deer Listening to the Approach) sculpted by **Arthur Jacques Le Duc**. That one was placed in Luxembourg Gardens in 1891, quite near the lion with the dead ostrich, more than 20 years after the lion was placed there. Perhaps the idea was that they should be looking nervously towards the lion?
 
 <figure>
   <img src="/images/17_CATQ1_DeerGroup_Paris_LuxembourgGardens_260118.jpg" alt="Group of Deer">
-  <figcaption>"La Harde de Cerfs Écoutant le Rapproche" by Arthur Jacques Le Duc (1891), Luxembourg Gardens, Paris, 18 January 2026. Photo: Fran Verdi.</figcaption>
+  <figcaption>"La Harde de Cerfs Écoutant le Rapproche" by Arthur Jacques Le Duc (1891), Luxembourg Gardens, Paris, 18 January 2026. Photo: Sarah Green.</figcaption>
 </figure>
 
 Near the Grand Basin is a statue of **Venus** with some kind of angry-looking dolphin with teeth. Having grown up with dolphins, it looked nothing like a dolphin to me, but I suppose it was supposed to be a bit mythical, like Venus. Further on, there is a statue of **Diana the Hunter with a young deer**: she was not standing naked and looking alluring, but fully dressed and entirely in possession of her faculties, it seemed to me. The deer was also a realistic one. A very much alive **seagull** was perched on Diana's head when I visited.
 
 <figure>
   <img src="/images/20_CATQ1_Venus_Dolphin_Paris_Luxembourg_260118.jpg" alt="Venus Dolphin">
-  <figcaption>Statue of Venus with dolphin, Luxembourg Gardens, Paris, 18 January 2026. Photo: Fran Verdi.</figcaption>
+  <figcaption>Statue of Venus with dolphin, Luxembourg Gardens, Paris, 18 January 2026. Photo: Sarah Green.</figcaption>
 </figure>
 
 <figure>
   <img src="/images/19_CATQ1_Diana_Paris_Luxembourg_260118.jpg" alt="Diana and Deer">
-  <figcaption>Diana the Hunter with deer (and seagull), Luxembourg Gardens, Paris, 18 January 2026. Photo: Fran Verdi.</figcaption>
+  <figcaption>Diana the Hunter with deer (and seagull), Luxembourg Gardens, Paris, 18 January 2026. Photo: Sarah Green.</figcaption>
 </figure>
 
 #### **Paris-London-Cambridge - microbes, seagulls, more pigeons, cormorants, coots, swans, eagles and falcons**
@@ -163,5 +163,5 @@ The River Cam is alive with water birds, more than I remember in the past, I thi
 
 <figure>
   <img src="/images/22_CATQ1_Great_Cormorant_Cambridge_260123.jpg" alt="Cormorant in Cambridge">
-  <figcaption>Great cormorant on the River Cam, Cambridge, 23 January 2026. Photo: Fran Verdi.</figcaption>
+  <figcaption>Great cormorant on the River Cam, Cambridge, 23 January 2026. Photo: Sarah Green.</figcaption>
 </figure>
