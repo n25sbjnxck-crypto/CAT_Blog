@@ -307,6 +307,26 @@ main {
     margin: var(--spacing-md) 0;
 }
 
+.post-content figure {
+    margin: var(--spacing-lg) 0;
+    padding: 0;
+}
+
+.post-content figure img {
+    margin: 0;
+    display: block;
+}
+
+.post-content figcaption {
+    font-family: 'Helvetica Neue', 'Arial', sans-serif;
+    font-size: 0.9rem;
+    color: var(--secondary-color);
+    margin-top: var(--spacing-xs);
+    padding: var(--spacing-xs) 0;
+    font-style: italic;
+    border-bottom: 1px solid var(--border-color);
+}
+
 .post-content hr {
     border: none;
     border-top: 1px solid var(--border-color);
